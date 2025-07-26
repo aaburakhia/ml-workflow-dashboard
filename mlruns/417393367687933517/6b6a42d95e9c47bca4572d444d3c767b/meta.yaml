@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/workspace/mlruns/417393367687933517/6b6a42d95e9c47bca4572d444d3c767b/artifacts
+end_time: 1753501113963
+entry_point_name: ''
+experiment_id: '417393367687933517'
+lifecycle_stage: active
+run_id: 6b6a42d95e9c47bca4572d444d3c767b
+run_name: 3bfd1eb2-244e-4d75-9fb3-5a1ac81187da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753501026151
+status: 3
+tags: []
+user_id: runner
