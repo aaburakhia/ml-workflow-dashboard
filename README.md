@@ -2,9 +2,6 @@
 
 An end-to-end, multi-page web application for demonstrating a complete MLOps workflow, from data upload and preprocessing to automated model training, evaluation, and analysis.
 
-![Dashboard Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*Note: To add your own screenshot, take a picture of the running app, upload it to a service like [imgur.com](https://imgur.com), and replace the URL above.*
-
 ---
 
 ## Key Features
